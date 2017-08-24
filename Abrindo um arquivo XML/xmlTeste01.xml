@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<pessoa>
+	<nome>João</nome>
+	<email>joao@email.com.br</email>
+        <telefone>999998888</telefone>
+</pessoa>
